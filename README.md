@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 Computer Science undergraduate at the University of Lincoln
+- ⚡ Successfully completed an extended IT Project Manager placement year with Procter & Gamble
+- 🌱 I’m currently analysing the effectiveness of multiple machine learning algorithms, to establish the best suited at diagnosing COVID-19
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurenceabrown/)
 
 <!--
 **laurencebrwn/laurencebrwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

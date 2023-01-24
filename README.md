@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 Computer Science undergraduate at the University of Lincoln
-- ⚡ Successfully completed an extended IT Project Manager placement year with Procter & Gamble
-- 🌱 I’m currently analysing the effectiveness of multiple machine learning algorithms, to establish the best suited at diagnosing COVID-19
+- 💼 UK Home Care Analytics Manager at Procter & Gamble
+- 🎓 Computer Science graduate at the University of Lincoln
+- 🌱 Thesis on the effectiveness of multiple machine learning algorithms, to establish the best suited at diagnosing COVID-19
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurenceabrown/)
 
 <!--

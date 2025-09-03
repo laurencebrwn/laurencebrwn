@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 💼 Product Insights at Catawiki
-- 💼 ex. UK Home Care Analytics Manager at Procter & Gamble
 - 🎓 Computer Science graduate at the University of Lincoln
 - 🌱 Thesis on the effectiveness of multiple machine learning algorithms, to establish the best suited at diagnosing COVID-19
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurenceabrown/)
